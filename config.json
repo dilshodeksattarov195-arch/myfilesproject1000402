@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperrncrypt",
+        "uuid": 711540,
+        "checksum": "ryidj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
